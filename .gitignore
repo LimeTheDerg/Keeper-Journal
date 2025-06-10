@@ -25,7 +25,10 @@ build/
 
 # Dependency directories
 bower_components/
-
+# pnpm
+pnpm-lock.yaml
+.pnpm-debug.log
+.pnpm/
 # Misc
 *.local
 *.sublime-workspace
