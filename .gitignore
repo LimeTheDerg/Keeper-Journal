@@ -1,0 +1,105 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# Dependency directories
+bower_components/
+
+# Misc
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Coverage reports
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# IDE files
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+*.pot
+*.pyc
+*.mo
+*.log
+media/
+staticfiles/
+static/
+*.sqlite3
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# TypeScript
+*.tsbuildinfo
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# React build output
+build/
+*.cache/
+.cache/
+.next/
+out/
+public/static/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnp/
+.pnp.js
+.eslintcache
